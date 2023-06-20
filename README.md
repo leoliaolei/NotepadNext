@@ -1,6 +1,7 @@
 # Notepad Next
 
 ![Build Notepad Next](https://github.com/dail8859/NotepadNext/workflows/Build%20Notepad%20Next/badge.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fleoliaolei%2FNotepadNext.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fleoliaolei%2FNotepadNext?ref=badge_shield)
 
 A cross-platform, reimplementation of Notepad++.
 
@@ -39,3 +40,6 @@ If you are new to building C++ Qt desktop applications, there is a more detailed
 
 # License
 This code is released under the [GNU General Public License version 3](http://www.gnu.org/licenses/gpl-3.0.txt).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fleoliaolei%2FNotepadNext.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fleoliaolei%2FNotepadNext?ref=badge_large)
